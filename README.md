@@ -2,7 +2,7 @@
 
 Me chamo Gabriel e sou Desenvolvedor Front End na [R/GA São Paulo](https://rga.com/).
 
-Atualmente trabalho em um time dedicado para Google, trabalhando atualmente no projeto de [Google ADS](https://ads.google.com/).
+Atualmente trabalho em um time dedicado para Google, no projeto de [Google ADS](https://ads.google.com/).
 
 
 
