@@ -1,10 +1,6 @@
-### Bodia 
+### Hey! 
 
-Me chamo Gabriel e sou Desenvolvedor Front End na [R/GA São Paulo](https://rga.com/).
-
-Atualmente trabalho em um time dedicado para Google, no projeto de [Google ADS](https://ads.google.com/).
-
-
+I'm Gabriel and I'm a Front End Software Engineer at [R/GA São Paulo](https://rga.com/).
 
 <!--
 **garefen/garefen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
