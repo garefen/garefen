@@ -1,6 +1,6 @@
 ### Hey! 
 
-I'm Gabriel and I'm a Front End Software Engineer at [R/GA São Paulo](https://rga.com/).
+I'm Gabriel Sarti and I'm a Front End Software Engineer at [R/GA São Paulo](https://rga.com/).
 
 <!--
 **garefen/garefen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
